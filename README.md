@@ -2,6 +2,12 @@
 
 ## GRUB theme based on Watchdog :)
 
+## Installation
+- Download the code
+- in the downloaded folder, open terminal
+- run <code>bash ./script.sh</code>
+- Enjoy!
+ 
 ### what's next:-
 - UI improvements
 - CLI enhancements
