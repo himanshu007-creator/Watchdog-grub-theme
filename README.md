@@ -5,7 +5,7 @@
 ## Installation
 - Download the code
 - in the downloaded folder, open terminal
-- run <code>bash ./script.sh</code>
+- run <code>bash ./install.sh</code>
 - Enjoy!
  
 ### what's next:-
